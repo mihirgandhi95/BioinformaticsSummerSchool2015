@@ -1,0 +1,13 @@
+Instructions on how to install the virtual machine
+
+1) Install Virtualbox with its extension pack
+
+2) Download the virtual machine (VM) (2.5Go) here
+http://ovh.to/ftGdXe
+This link is valid till the 9 of August but don't hesitate to ask the VM after this date.
+
+3) Install the VM on Virtualbox
+
+Its done !
+
+4) don't forget to change the keyboard for an appropriate one.
